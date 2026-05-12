@@ -1,0 +1,13 @@
+[package]
+name = "map-benchmarks"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+criterion = "0.8.2"
+serde = { version = "1.0.228", features = ["derive"] }
+serde_json = "1.0.149"
+
+[[bench]]
+name = "map_bench"
+harness = false
