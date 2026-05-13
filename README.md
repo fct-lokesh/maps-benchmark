@@ -7,7 +7,7 @@ These tests are designed to measure extreme low-latency execution for telemetry 
 ## Benchmark Reports
 
 - Full benchmark analysis: [BENCH-RESULT.MD](./BENCH-RESULT.MD)
-- Interactive Criterion HTML Report: [criterion/report/index.html](./criterion/report/index.html)
+- Interactive Criterion HTML Report: [criterion/report/index.html](https://fct-lokesh.github.io/maps-benchmark/criterion/report/index.html)
 ## Overview
 
 The benchmark tracks the evolution of a custom `LinearMap` built from scratch across repeted benchmark-runs, testing both Insert and Find operations.
